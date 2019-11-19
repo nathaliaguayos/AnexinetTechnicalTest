@@ -1,0 +1,6 @@
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\obj\Debug\2ndExercise-RepeatedChars.csprojResolveAssemblyReference.cache
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\bin\Debug\2ndExercise-RepeatedChars.exe.config
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\bin\Debug\2ndExercise-RepeatedChars.exe
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\bin\Debug\2ndExercise-RepeatedChars.pdb
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\obj\Debug\2ndExercise-RepeatedChars.exe
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\obj\Debug\2ndExercise-RepeatedChars.pdb

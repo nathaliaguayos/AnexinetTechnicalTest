@@ -1,0 +1,15 @@
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\2ndExercise-RepeatedCharsTests.dll
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\2ndExercise-RepeatedCharsTests.pdb
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\2ndExercise-RepeatedChars.exe
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\2ndExercise-RepeatedChars.pdb
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\2ndExercise-RepeatedChars.exe.config
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\obj\Debug\2ndExercise-RepeatedCharsTests.csprojResolveAssemblyReference.cache
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\obj\Debug\2ndExercise-RepeatedCharsTests.dll
+C:\Users\NathaliAguayo\Desktop\Projects\2ndExercise-RepeatedChars\2ndExercise-RepeatedChars\2ndExercise-RepeatedCharsTests\obj\Debug\2ndExercise-RepeatedCharsTests.pdb
