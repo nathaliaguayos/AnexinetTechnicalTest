@@ -1,0 +1,15 @@
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\obj\Debug\4thExercise-BalancedBracketsTests.csprojResolveAssemblyReference.cache
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\4thExercise-BalancedBracketsTests.dll
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\4thExercise-BalancedBracketsTests.pdb
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\4thExercise-BalancedBrackets.exe
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\4thExercise-BalancedBrackets.pdb
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\4thExercise-BalancedBrackets.exe.config
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\obj\Debug\4thExercise-BalancedBracketsTests.dll
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBracketsTests\obj\Debug\4thExercise-BalancedBracketsTests.pdb

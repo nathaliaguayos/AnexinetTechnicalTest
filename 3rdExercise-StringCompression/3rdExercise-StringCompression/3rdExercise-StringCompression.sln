@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3rdExercise-StringCompression", "3rdExercise-StringCompression\3rdExercise-StringCompression.csproj", "{E39AB7CE-BFAE-4A24-9109-54D9F026E59B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3rdExercise_StringCompressionTests", "3rdExercise_StringCompressionTests\3rdExercise_StringCompressionTests.csproj", "{2824D578-59AE-4F81-BFE9-B0F47E08010B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E39AB7CE-BFAE-4A24-9109-54D9F026E59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39AB7CE-BFAE-4A24-9109-54D9F026E59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39AB7CE-BFAE-4A24-9109-54D9F026E59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39AB7CE-BFAE-4A24-9109-54D9F026E59B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2824D578-59AE-4F81-BFE9-B0F47E08010B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2824D578-59AE-4F81-BFE9-B0F47E08010B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2824D578-59AE-4F81-BFE9-B0F47E08010B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2824D578-59AE-4F81-BFE9-B0F47E08010B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\NathaliAguayo\Desktop\Projects\3rdExercise-StringCompression\3rdExercise-StringCompression\3rdExercise-StringCompression\obj\Debug\3rdExercise-StringCompression.csprojResolveAssemblyReference.cache
+C:\Users\NathaliAguayo\Desktop\Projects\3rdExercise-StringCompression\3rdExercise-StringCompression\3rdExercise-StringCompression\bin\Debug\3rdExercise-StringCompression.exe.config
+C:\Users\NathaliAguayo\Desktop\Projects\3rdExercise-StringCompression\3rdExercise-StringCompression\3rdExercise-StringCompression\bin\Debug\3rdExercise-StringCompression.exe
+C:\Users\NathaliAguayo\Desktop\Projects\3rdExercise-StringCompression\3rdExercise-StringCompression\3rdExercise-StringCompression\bin\Debug\3rdExercise-StringCompression.pdb
+C:\Users\NathaliAguayo\Desktop\Projects\3rdExercise-StringCompression\3rdExercise-StringCompression\3rdExercise-StringCompression\obj\Debug\3rdExercise-StringCompression.exe
+C:\Users\NathaliAguayo\Desktop\Projects\3rdExercise-StringCompression\3rdExercise-StringCompression\3rdExercise-StringCompression\obj\Debug\3rdExercise-StringCompression.pdb

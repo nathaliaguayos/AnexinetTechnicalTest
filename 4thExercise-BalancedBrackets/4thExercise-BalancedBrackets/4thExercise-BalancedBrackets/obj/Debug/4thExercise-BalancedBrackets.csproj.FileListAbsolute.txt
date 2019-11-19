@@ -1,0 +1,6 @@
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\bin\Debug\4thExercise-BalancedBrackets.exe.config
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\bin\Debug\4thExercise-BalancedBrackets.exe
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\bin\Debug\4thExercise-BalancedBrackets.pdb
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\obj\Debug\4thExercise-BalancedBrackets.csprojResolveAssemblyReference.cache
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\obj\Debug\4thExercise-BalancedBrackets.exe
+C:\Users\NathaliAguayo\Desktop\Projects\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\4thExercise-BalancedBrackets\obj\Debug\4thExercise-BalancedBrackets.pdb

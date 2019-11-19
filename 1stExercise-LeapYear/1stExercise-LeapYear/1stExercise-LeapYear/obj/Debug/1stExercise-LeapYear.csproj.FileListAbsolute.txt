@@ -1,0 +1,6 @@
+C:\Users\NathaliAguayo\Desktop\Projects\1stExercise-LeapYear\1stExercise-LeapYear\1stExercise-LeapYear\bin\Debug\1stExercise-LeapYear.exe.config
+C:\Users\NathaliAguayo\Desktop\Projects\1stExercise-LeapYear\1stExercise-LeapYear\1stExercise-LeapYear\bin\Debug\1stExercise-LeapYear.exe
+C:\Users\NathaliAguayo\Desktop\Projects\1stExercise-LeapYear\1stExercise-LeapYear\1stExercise-LeapYear\bin\Debug\1stExercise-LeapYear.pdb
+C:\Users\NathaliAguayo\Desktop\Projects\1stExercise-LeapYear\1stExercise-LeapYear\1stExercise-LeapYear\obj\Debug\1stExercise-LeapYear.csprojResolveAssemblyReference.cache
+C:\Users\NathaliAguayo\Desktop\Projects\1stExercise-LeapYear\1stExercise-LeapYear\1stExercise-LeapYear\obj\Debug\1stExercise-LeapYear.exe
+C:\Users\NathaliAguayo\Desktop\Projects\1stExercise-LeapYear\1stExercise-LeapYear\1stExercise-LeapYear\obj\Debug\1stExercise-LeapYear.pdb
